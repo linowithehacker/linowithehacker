@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @linowithehacker
-- 👀 I’m interested in game dev,linux,hacking,it,c++
-- 🌱 I’m currently learning ...game dev,blender,batch,c++
-- 💞️ I’m looking to collaborate on c++ unreal engine game with blender
+- 👀 I’m interested in robotics,linux,hacking,it,c,python
+- 🌱 I’m currently learning ...python,batch,c,linux
+- 💞️ I’m looking to collaborate on what you want
 - 📫 How to reach me :officiallinowi@gmail.com
-- pro trump and anti woke(i dont hate lgbt just the crazy festivals and forcing babyies to be trans)
 
 <!---
 linowithehacker/linowithehacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
