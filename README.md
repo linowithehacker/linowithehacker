@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @linowithehacker
-- 👀 I’m interested in robotics,linux,hacking,it,c,python
-- 🌱 I’m currently learning ...python,batch,c,linux
-- 💞️ I’m looking to collaborate on what you want
-- 📫 How to reach me: signal username: off1.63
+- 👀 I’m interested in robotics,linux,cybersecurity,it,c,python
+- 🌱 I’m currently learning ...python,batch,c,bash,rust
+- 💞️ I’m looking to collaborate on python/c/rust/bash projects
+- 📫 How to reach me: signal username: off1.63 or discord: officiallinowi1 or matrix username: officiallinowi
 
 <!---
 linowithehacker/linowithehacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
